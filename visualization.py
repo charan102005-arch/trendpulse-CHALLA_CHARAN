@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from collections import Counter
 
-# Load JSON file (update filename if needed)
+# Load JSON file 
 file_path = "data/trends_20260414.json"
 
 with open(file_path, "r", encoding="utf-8") as f:
